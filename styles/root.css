@@ -1,0 +1,17 @@
+:root {
+
+
+	/* Main colors */
+	--clr-accent-500: hsl(185, 75%, 39%);
+	--clr-primary-300: hsl(227, 10%, 46%);
+	--clr-primary-700: hsl(229, 23%, 23%);
+
+	/* Neutrals */
+	--clr-white-100: hsl(0, 0%, 100%);
+	--clr-gray-500: hsl(0, 0%, 59%);
+
+	/* UI colors */
+	--clr-background: var(--clr-white-100);
+	--clr-foreground: hsl(229, 23%, 23%);
+	--clr-foreground-secondary: hsl(227, 10%, 46%);
+}
