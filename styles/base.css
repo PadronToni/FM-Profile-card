@@ -12,5 +12,5 @@ body {
 	font-size: 18px;
 	color: var(--clr-foreground);
 
-	background-color: var(--clr-background);
+	background-color: var(--clr-accent-500);
 }
