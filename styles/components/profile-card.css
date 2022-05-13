@@ -1,6 +1,7 @@
 .profile-card {
 	background-color: var(--clr-background);
 	border-radius: 1rem;
+	margin: 2rem;
 	overflow: hidden;
 }
 

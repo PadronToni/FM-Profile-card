@@ -1,0 +1,9 @@
+.pattern-bg {
+	--size: 1000px;
+	--delta-v: calc(var(--size) / 1.5 * -1);
+	--delta-h: 40vw;
+	background-repeat: no-repeat;
+	background-image: url(../../images/bg-pattern-top.svg), url(../../images/bg-pattern-bottom.svg);
+	background-position: top var(--delta-v) right var(--delta-h), bottom var(--delta-v) left var(--delta-h);
+	background-size: var(--size), var(--size);
+}
