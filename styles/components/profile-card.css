@@ -3,6 +3,8 @@
 	border-radius: 1rem;
 	margin: 2rem;
 	overflow: hidden;
+
+	box-shadow: 0 15px 40px -5px hsla(0, 0%, 0%, 0.15);
 }
 
 .profile-card-content {

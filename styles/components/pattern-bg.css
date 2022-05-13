@@ -1,5 +1,5 @@
 .pattern-bg {
-	--size: max(1000px, 60vw);
+	--size: max(1000px, 65vw);
 	--delta-v: calc(var(--size) / 1.5 * -1);
 	--delta-h: 45vw;
 	background-repeat: no-repeat;
