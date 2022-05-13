@@ -46,6 +46,7 @@
 }
 .profile-card-user-info > :first-child {
 	font-weight: 700;
+	font-size: inherit;
 	color: var(--clr-foreground-em);
 }
 
